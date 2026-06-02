@@ -271,11 +271,11 @@ export const Hero = () => {
               {/* Main sticker profile image */}
               <div className="relative z-10 group">
                 {/* Glow effect behind image */}
-                <div className="absolute -inset-4 bg-gradient-to-br from-cyan-500/30 to-violet-500/30 rounded-full blur-2xl opacity-75 group-hover:opacity-100 transition-opacity duration-500" />
+                <div className="absolute -inset-4 bg-linear-to-br from-cyan-500/30 to-violet-500/30 rounded-full blur-2xl opacity-75 group-hover:opacity-100 transition-opacity duration-500" />
                 
                 {/* Image with sticker appearance */}
                 <img
-                  src="public\WhatsApp Image 2026-05-31 at 4.04.40 PM.jpeg"
+                  src="/WhatsApp Image 2026-05-31 at 4.04.40 PM.jpeg"
                   alt="Muttu Manahalli"
                   className="relative w-80 md:w-96 drop-shadow-6xl transform group-hover:scale-105 group-hover:-rotate-3 transition-all duration-300 filter brightness-110 rounded-3xl"
                 />
@@ -296,7 +296,7 @@ export const Hero = () => {
                     <div className="w-4 h-4 bg-green-500 rounded-full animate-pulse" />
                     <div className="absolute inset-0 w-4 h-4 bg-green-500 rounded-full animate-ping opacity-75" />
                   </div>
-                  <div className="font-medium text-sm text-foreground">
+                  <div className="font-medium text-sm text-foreground"> 
                     <div>Open for</div>
                     <div className="text-cyan-400">Opportunities</div>
                   </div>

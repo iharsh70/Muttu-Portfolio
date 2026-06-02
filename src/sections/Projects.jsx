@@ -6,7 +6,7 @@ const projects = [
     title: "Smart Traffic Light Controller", 
     description:
       "Designed and implemented a finite state machine-based traffic light controller with configurable timing parameters. Developed synthesizable RTL and verified all state transitions through comprehensive simulation and testbench validation..",
-    image: "public\\Smart Traffic controller.jpeg",
+    image: "/Smart Traffic controller.jpeg",
     tags: ["Verilog", "FSM Design", "Vivado"],
     link: "https://github.com/muttu-HUB/Smart-Traffic-Light-Controller",
     github: "https://github.com/muttu-HUB/Smart-Traffic-Light-Controller",
@@ -15,7 +15,7 @@ const projects = [
     title: "7-Segment Display Using Verilog and Vivado",
     description:
       "Designed and simulated a two-digit decimal counter (00–99) using Verilog HDL in Vivado. Implemented modular components including BCD counters, clock division, multiplexing, and 7-segment display interfacing. Verified functionality through simulation and FPGA-ready design.",
-    image: "public\\project 2.jpeg",
+    image: "/project 2.jpeg",
     tags: ["Verilog HDL", "Vivado", "FPGA Design", "Digital Logic Design", "Simulation & Verification"],
     link: "https://github.com/muttu-HUB/7-segment-displays",
     github: "https://github.com/muttu-HUB/7-segment-displays",
@@ -24,7 +24,7 @@ const projects = [
     title: "ASYNC-FIFO-DESIGN-AND-VERIFICATION USING VERILOG",
     description:
       "Designed and verified a Dual-Clock Asynchronous FIFO for reliable Clock Domain Crossing (CDC) using Gray Code Pointer Synchronization and Full/Empty Detection Logic. Developed synthesizable Verilog RTL and a SystemVerilog self-checking testbench with scoreboard-based verification, achieving 100% pass rate in Vivado simulation.",
-    image: "public\\project 3.jpeg",
+    image: "/project 3.jpeg",
     tags: ["Verilog HDL", "SystemVerilog", "Vivado", "FPGA Design", "CDC", "RTL Design", "Verification"],
     link: "https://github.com/muttu-HUB/ASYNC-FIFO-DESIGN-AND-VERIFICATION",
     github: "https://github.com/muttu-HUB/ASYNC-FIFO-DESIGN-AND-VERIFICATION",
@@ -33,7 +33,7 @@ const projects = [
     title: "FPGA-Co-Processor-for-AI-based-Spectrum-Sensing",
     description:
       "Designed and simulated a two-digit decimal counter (00–99) in Vivado using BCD counters, clock division, multiplexing, and 7-segment display interfacing. Verified functionality through waveform simulation and FPGA-ready implementation.",
-    image: "public\\Screenshot 2026-06-01 132452.png",
+    image: "/Screenshot 2026-06-01 132452.png",
     tags: ["Verilog HDL", "Vivado", "FPGA Design", "Digital Logic Design"],
     link: "https://github.com/muttu-HUB/FPGA-Co-Processor-for-AI-based-Spectrum-Sensing",
     github: "https://github.com/muttu-HUB/FPGA-Co-Processor-for-AI-based-Spectrum-Sensing",
